@@ -1,9 +1,13 @@
 ---
-title: Permission Configuration
+title: Edit Organization
 description: Using exposed Casbin APIs to manage users' access rights in an organization
 keywords: [permissions, Casbin]
 authors: [MagicalSheep]
 ---
+## Accessing the Permission Page
+
+To access the Permission page in Casdoor:
+
 
 Let's explain each item in the Permission Configuration page.
 
